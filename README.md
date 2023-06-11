@@ -32,7 +32,8 @@
 https://developer.nvidia.com/embedded/deepstream-on-jetson-downloads-archived
 我下载的是deepstream5.0
 ![image](https://github.com/xu-rui/Jetson_nano/assets/73344517/5867f8a1-8e86-42e4-bc52-7b9847aca8f2)
-安装依赖项
+<br>安装依赖项<br>
+
 sudo apt install \
 libssl1.0.0 \
 libgstreamer1.0-0 \
@@ -43,6 +44,7 @@ gstreamer1.0-plugins-ugly \
 gstreamer1.0-libav \
 libgstrtspserver-1.0-0 \
 libjansson4=2.11-1
+
 安装DeepStream SDK
 (1)进入官网https://developer.nvidia.com/embedded/deepstream-on-jetson-downloads-archived选择deep stream 5.0 for Jetson并下载
 ![image](https://github.com/xu-rui/Jetson_nano/assets/73344517/1b98f83b-d2dd-4f22-81af-6ee6cd3038ae)
